@@ -10,6 +10,9 @@ yeonju7kim/yeonju7kim is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonju7kim)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/kim-yeonju-37a13b22a/)](https://www.linkedin.com/in/kim-yeonju-37a13b22a/)   
 
 <!---
