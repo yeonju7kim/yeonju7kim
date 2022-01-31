@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me : yeonju7.kim@gmail.com
 
-- Blog : [![LinkedIn Badge](https://img.shields.io/badge/-Blog-5220b1?style=flat&logo=Github&link=https://yeonju7kim.github.io/)](https://yeonju7kim.github.io/)   
-- LinkedIn : [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/kim-yeonju-37a13b22a/)](https://www.linkedin.com/in/kim-yeonju-37a13b22a/)   
+[![LinkedIn Badge](https://img.shields.io/badge/-Blog-5220b1?style=flat&logo=Github&link=https://yeonju7kim.github.io/)](https://yeonju7kim.github.io/)   [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/kim-yeonju-37a13b22a/)](https://www.linkedin.com/in/kim-yeonju-37a13b22a/)   
 
 <!---
 yeonju7kim/yeonju7kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
