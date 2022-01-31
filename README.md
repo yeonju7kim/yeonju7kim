@@ -10,4 +10,8 @@ yeonju7kim/yeonju7kim is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonju7kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)               
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/kim-yeonju-37a13b22a/)](https://www.linkedin.com/in/kim-yeonju-37a13b22a/)   
+
+<!---
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)](본인주소)
+--->
