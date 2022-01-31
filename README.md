@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me : yeonju7.kim@gmail.com
-- ✨ My blog : https://yeonju7kim.github.io/
+- Blog : [![LinkedIn Badge](https://img.shields.io/badge/-Blog-5220b1?style=flat&logo=Github&link=https://yeonju7kim.github.io/)](https://yeonju7kim.github.io/)   
 - LinkedIn : [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/kim-yeonju-37a13b22a/)](https://www.linkedin.com/in/kim-yeonju-37a13b22a/)   
 
 <!---
